@@ -1,7 +1,6 @@
 import Cocoa
 
 // Convert AM/PM time STRING to Military Time string
-
 var s = "09:04:01PM"
 
 func timeConversion(s: String) -> String {
